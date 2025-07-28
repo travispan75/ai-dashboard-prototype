@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## About the Project
+
+This is a **prototype for a full-stack AI dashboard**, built using **Next.js** and **OpenAI APIs**.  
+It integrates real-time data visualizations via **Recharts** and supports **ML inference** through deployed machine learning models.  
+The goal is to create an interactive, modern interface for exploring AI-powered insights in a dashboard format.
+
 ## Getting Started
 
 First, run the development server:
